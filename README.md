@@ -1,4 +1,6 @@
-# playstore-api-v2
+# playstore-api-v2 (DEPRECATED) 
+
+Checkout Kotlin implementaion of the same [here](https://gitlab.com/AuroraOSS/gplayapi)
 
 Google Play Store protobuf API wrapper in java
 
